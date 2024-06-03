@@ -44,6 +44,7 @@ These work for installing fresh and upgrading from an older version.
 * If installation still fails, you can install the minimal version (command line interface) with this command:<br>`pip3 install FlashGBX`
 
 * Pre-made Linux packages and instructions for select distributions are available [here](https://github.com/JJ-Fox/FlashGBX-Linux-builds/releases/latest).
+* Pre-made macOS packages are available [here](https://github.com/Cliffback/FlashGBX-macOS/releases/latest).
 
 #### Running
 Use this command in a Terminal or Command Prompt window to launch the installed FlashGBX application:
